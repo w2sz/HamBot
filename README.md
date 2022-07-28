@@ -51,6 +51,6 @@ python FMBot.py -d 1 --apibaseurl MASTODON_SERVER_URL
 
 Remember to replace the ACCESS_TOKEN in the script with your own value.
 
-### playground.ipynb
+## playground.ipynb
 
 This notebook contains some chucks of code we used for performance analysis.
